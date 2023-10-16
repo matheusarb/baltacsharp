@@ -1,0 +1,15 @@
+C:\dev\BaltaCSharp\bin\Debug\net7.0\BaltaCSharp.exe
+C:\dev\BaltaCSharp\bin\Debug\net7.0\BaltaCSharp.deps.json
+C:\dev\BaltaCSharp\bin\Debug\net7.0\BaltaCSharp.runtimeconfig.json
+C:\dev\BaltaCSharp\bin\Debug\net7.0\BaltaCSharp.dll
+C:\dev\BaltaCSharp\bin\Debug\net7.0\BaltaCSharp.pdb
+C:\dev\BaltaCSharp\obj\Debug\net7.0\BaltaCSharp.csproj.AssemblyReference.cache
+C:\dev\BaltaCSharp\obj\Debug\net7.0\BaltaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\BaltaCSharp\obj\Debug\net7.0\BaltaCSharp.AssemblyInfoInputs.cache
+C:\dev\BaltaCSharp\obj\Debug\net7.0\BaltaCSharp.AssemblyInfo.cs
+C:\dev\BaltaCSharp\obj\Debug\net7.0\BaltaCSharp.csproj.CoreCompileInputs.cache
+C:\dev\BaltaCSharp\obj\Debug\net7.0\BaltaCSharp.dll
+C:\dev\BaltaCSharp\obj\Debug\net7.0\refint\BaltaCSharp.dll
+C:\dev\BaltaCSharp\obj\Debug\net7.0\BaltaCSharp.pdb
+C:\dev\BaltaCSharp\obj\Debug\net7.0\BaltaCSharp.genruntimeconfig.cache
+C:\dev\BaltaCSharp\obj\Debug\net7.0\ref\BaltaCSharp.dll
