@@ -1,0 +1,15 @@
+C:\dev\baltacsharp\dates\bin\Debug\net7.0\Dates.exe
+C:\dev\baltacsharp\dates\bin\Debug\net7.0\Dates.deps.json
+C:\dev\baltacsharp\dates\bin\Debug\net7.0\Dates.runtimeconfig.json
+C:\dev\baltacsharp\dates\bin\Debug\net7.0\Dates.dll
+C:\dev\baltacsharp\dates\bin\Debug\net7.0\Dates.pdb
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\Dates.csproj.AssemblyReference.cache
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\Dates.AssemblyInfoInputs.cache
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\Dates.AssemblyInfo.cs
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\Dates.csproj.CoreCompileInputs.cache
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\Dates.dll
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\refint\Dates.dll
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\Dates.pdb
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\Dates.genruntimeconfig.cache
+C:\dev\baltacsharp\dates\obj\Debug\net7.0\ref\Dates.dll
