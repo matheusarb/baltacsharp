@@ -9,7 +9,8 @@ class Program
     Console.Clear();
 
     // ObterDatas();
-    FormatarData();
+    // FormatarData();
+    AdicionarValoresData();
   }
 
   private static void ObterDatas()
@@ -28,8 +29,20 @@ class Program
   {
     var data = DateTime.Now;
 
-    var dataFormatada = String.Format("{0:y}", data);
-    System.Console.WriteLine(dataFormatada);
+    var dataFormatada = String.Format("{0:D}", data);
+    var dataFormatada1 = String.Format("{0:dd/MM/yy ff z}", data);
+    var dataFormatada2 = String.Format("{0:r}", data);
+    var dataFormatada3 = String.Format("{0:s}", data); //padrão para JSON pra enviar pro frontend
+    var dataFormatada4 = String.Format("{0:u}", data); //padrão usado em NOSql MongoDB
+    System.Console.WriteLine(dataFormatada2);
   }
 
+  private static void AdicionarValoresData()
+  {
+    var data = DateTime.Now;
+
+    System.Console.WriteLine(data.AddDays(10));
+    System.Console.WriteLine(data.AddMonths(2));
+    System.Console.WriteLine(data.AddHours(3));
+  }
 } 
