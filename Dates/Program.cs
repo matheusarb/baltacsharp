@@ -13,7 +13,9 @@ class Program
     // FormatarData();
     // AdicionarValoresData();
     // CompararDatas();
-    ModifyCulture();
+    // ModifyCulture();
+    // UsingTimezone();
+    UsingTimespan();
   }
 
   private static void ObterDatas()
@@ -67,5 +69,51 @@ class Program
     var data = DateTime.Now;
 
     System.Console.WriteLine(data.Date.ToString("D", en));
+  }
+
+  private static void UsingTimezone()
+  {
+    // var utcDate = DateTime.UtcNow;
+    // var localDate = DateTime.Now;
+
+    // var timezoneAustralia = TimeZoneInfo.FindSystemTimeZoneById("Pacific/Auckland");
+
+    // // System.Console.WriteLine(localDate);
+    // // System.Console.WriteLine(utcDate.ToLocalTime());
+    // System.Console.WriteLine(utcDate);
+    // System.Console.WriteLine(timezoneAustralia);
+
+    // var horaAustralia = TimeZoneInfo.ConvertTimeFromUtc(utcDate, timezoneAustralia);
+    // System.Console.WriteLine(horaAustralia);
+
+    var typeTimezones = TimeZoneInfo.GetSystemTimeZones().GetType();
+    var props = typeTimezones.GetProperties();
+    
+    // foreach(var prop in props){
+    //   System.Console.WriteLine(prop.Name);
+    //   System.Console.WriteLine("-------");
+    // }
+    System.Console.WriteLine(props);
+
+    foreach(var item in props)
+    {
+      System.Console.WriteLine(item);
+      // if (timezone.Name.Contains("Salvador"))
+      // {
+      //   System.Console.WriteLine(timezone);
+      // }
+
+      // System.Console.WriteLine(timezone);
+      // System.Console.WriteLine("--------");
+    }
+  }
+
+  private static void UsingTimespan()
+  {
+    // var today = DateTime.Now;
+    var timeSpan = new TimeSpan(13, 06, 00);
+    
+    System.Console.WriteLine(timeSpan.Hours);
+    System.Console.WriteLine();
   }
 } 
