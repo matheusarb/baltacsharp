@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj": {}
+    "C:\\dev\\baltacsharp\\BaltaCSharp.csproj": {}
   },
   "projects": {
-    "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj": {
+    "C:\\dev\\baltacsharp\\BaltaCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj",
+        "projectUniqueName": "C:\\dev\\baltacsharp\\BaltaCSharp.csproj",
         "projectName": "BaltaCSharp",
-        "projectPath": "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj",
+        "projectPath": "C:\\dev\\baltacsharp\\BaltaCSharp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\BaltaCSharp\\obj\\",
+        "outputPath": "C:\\dev\\baltacsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

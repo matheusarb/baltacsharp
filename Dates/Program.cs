@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Dates;
 
@@ -10,7 +11,9 @@ class Program
 
     // ObterDatas();
     // FormatarData();
-    AdicionarValoresData();
+    // AdicionarValoresData();
+    // CompararDatas();
+    ModifyCulture();
   }
 
   private static void ObterDatas()
@@ -44,5 +47,25 @@ class Program
     System.Console.WriteLine(data.AddDays(10));
     System.Console.WriteLine(data.AddMonths(2));
     System.Console.WriteLine(data.AddHours(3));
+  }
+
+  private static void CompararDatas()
+  {
+    var data = DateTime.Now;
+
+    if(data.Date == DateTime.Now.Date)
+      System.Console.WriteLine($"é igual - {data.Date.ToShortDateString()}");
+
+    // System.Console.WriteLine(data.Date);
+  }
+
+  private static void ModifyCulture()
+  {
+    var pt = new CultureInfo("pt-BR");
+    var en = new CultureInfo("en-US");
+    var atual = CultureInfo.CurrentCulture;
+    var data = DateTime.Now;
+
+    System.Console.WriteLine(data.Date.ToString("D", en));
   }
 } 

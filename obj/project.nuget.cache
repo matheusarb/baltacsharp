@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "30mh+y0sxPq/jWTh2cBcz8n5NFYvjMvZCDE2Vrb2gI4sHmgTxv5A+MwWrOzEqW0V2C5ao0lt8zayeb86SqSV7g==",
+  "dgSpecHash": "7D3LwTGygtnbM2o6itlHA1Lhsoy+J1xId5tthEHWXk4I5FJFsdoSSs6eQvMX0rIqOU9YVAW24QIE2czuRBpnKg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj",
+  "projectFilePath": "C:\\dev\\baltacsharp\\BaltaCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
