@@ -1,0 +1,15 @@
+C:\dev\baltacsharp\currency\bin\Debug\net7.0\currency.exe
+C:\dev\baltacsharp\currency\bin\Debug\net7.0\currency.deps.json
+C:\dev\baltacsharp\currency\bin\Debug\net7.0\currency.runtimeconfig.json
+C:\dev\baltacsharp\currency\bin\Debug\net7.0\currency.dll
+C:\dev\baltacsharp\currency\bin\Debug\net7.0\currency.pdb
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\currency.csproj.AssemblyReference.cache
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\currency.AssemblyInfoInputs.cache
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\currency.AssemblyInfo.cs
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\currency.csproj.CoreCompileInputs.cache
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\currency.dll
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\refint\currency.dll
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\currency.pdb
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\currency.genruntimeconfig.cache
+C:\dev\baltacsharp\currency\obj\Debug\net7.0\ref\currency.dll

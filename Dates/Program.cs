@@ -15,7 +15,17 @@ class Program
     // CompararDatas();
     // ModifyCulture();
     // UsingTimezone();
-    UsingTimespan();
+    // UsingTimespan();
+
+    var date = DateTime.Now.AddDays(4);
+    System.Console.WriteLine(IsWeekend(date.DayOfWeek));
+    System.Console.WriteLine(date.DayOfWeek);
+    System.Console.WriteLine(IsWeekend(DateTime.Now.DayOfWeek));
+  }
+
+  static bool IsWeekend(DayOfWeek today)
+  {
+    return today == DayOfWeek.Saturday || today == DayOfWeek.Sunday;
   }
 
   private static void ObterDatas()
