@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj": {}
+    "C:\\dev\\baltacsharp\\arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj": {
+    "C:\\dev\\baltacsharp\\arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj",
-        "projectName": "BaltaCSharp",
-        "projectPath": "C:\\dev\\BaltaCSharp\\BaltaCSharp.csproj",
+        "projectUniqueName": "C:\\dev\\baltacsharp\\arrays\\Arrays.csproj",
+        "projectName": "Arrays",
+        "projectPath": "C:\\dev\\baltacsharp\\arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\BaltaCSharp\\obj\\",
+        "outputPath": "C:\\dev\\baltacsharp\\arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
