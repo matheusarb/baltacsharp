@@ -20,7 +20,7 @@ class Program
         { 
           System.Console.WriteLine(ex.InnerException);
           System.Console.WriteLine($"Arg NV {ex.Message}");
-        }
+        }""
         catch(IndexOutOfRangeException ex){
           System.Console.WriteLine($"O erro 1: {ex.Message}");
         }
